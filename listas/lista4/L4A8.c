@@ -7,10 +7,11 @@ nesta questão
 */
 
 int fatorial(int n){
-    if(n == 0 || n == 1){
-        return 1;
+    int fat = 1;
+    for(int i = 1; i <= n; i++){
+        fat *= i;
     }
-    return n * fatorial(n - 1);
+    return fat;
 }
 
 void exercicio08()
@@ -18,7 +19,7 @@ void exercicio08()
     int n;
     printf("Digite um numero para n: ");
     scanf("%d", &n);
-    printf("O falor de fatorial eh: %d ", fatorial(n));
+    printf("O valor de fatorial eh: %d ", fatorial(n));
 }
 
 int main()
