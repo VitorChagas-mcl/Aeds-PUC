@@ -1,0 +1,1 @@
+//13. Escreva um programa em C para imprimir todas as permutações de uma determinada string usando ponteiros.
