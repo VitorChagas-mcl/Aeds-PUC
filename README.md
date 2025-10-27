@@ -12,6 +12,7 @@ Este repositório tem como objetivo reunir os códigos e soluções de problemas
 ---
 
 ## 📂 Estrutura do Repositório
+- `verde/` → Atividades avaliativas do semestre.  
 - `listas/` → Exercícios organizados por listas.  
 - `provas/` → Questões de provas resolvidas.  
 - `projetos/` → Projetos práticos e trabalhos maiores.  
