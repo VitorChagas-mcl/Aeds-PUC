@@ -1,5 +1,11 @@
 Antonio 1 2
+Antonio 1 2
+Antonio 1 2
 Berenice 3 4
+Berenice 3 4
+Berenice 3 4
+Carlos 5 6
+Carlos 5 6
 Carlos 5 6
 Celia
 Diana
@@ -7,4 +13,3 @@ Fabio
 Henrique
 Solange
 Sonia
-Zuleica
