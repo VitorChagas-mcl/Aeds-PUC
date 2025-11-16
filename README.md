@@ -42,4 +42,3 @@ char* triangleType(int* nums, int numsSize) {
     }
     return "scalene";
 }
-
